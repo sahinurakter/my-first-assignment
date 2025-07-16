@@ -84,3 +84,46 @@ header{
 .r{
     text-align: center;
 }
+.ce{
+text-align: center;
+}
+.web{
+    border-radius: 30px;
+    height: 200px;width: 600px;
+}
+.ce nav{
+    gap: 5px;
+}
+.pic{
+    border-radius: 50px;
+}
+.t{
+    display: flex;
+    margin: 50px;
+    justify-content: space-between;
+}
+.bo{
+    font-weight: 900;
+    font-size: 50px;
+}
+div ul{
+    display: flex;
+    justify-content: space-around; margin: 0px 100px;
+}
+div ul li{
+    list-style: none;
+}
+.center{
+    text-align: center;
+}
+.logo{
+    font-size: 40px; text-align: center;
+    font-weight: 500;
+    color: #4E47FF;
+}
+.li{
+    margin: 50px;
+}
+.cet{
+    padding: 60px 0px;
+}
