@@ -1,0 +1,12 @@
+.a{
+    color: #4E47FF;
+    margin: 0px 50px;
+    font-weight: bold;
+}
+.b{
+    color: #FFFFFF;
+    background-color: #4E47FF;
+    margin: 0px 50px;
+    padding: 12px 35px; border-radius: 10px;
+    border: none;
+}
