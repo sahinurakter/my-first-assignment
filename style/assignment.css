@@ -43,3 +43,20 @@ header{
     padding: 12px 35px; border-radius: 10px;
     border: none;
 }
+.j{
+    text-align: center;
+}
+.k{
+    font-size: 40px;
+    font-weight: bold;
+    color: #4E47FF;
+}
+.i{
+    display: flex;
+    justify-content: space-around;
+}
+.l{
+    margin: 50px;
+    background-color: mediumslateblue;
+    padding: 10px 40px;
+}
