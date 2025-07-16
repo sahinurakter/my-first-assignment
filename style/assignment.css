@@ -60,3 +60,27 @@ header{
     background-color: mediumslateblue;
     padding: 10px 40px;
 }
+.p{
+    display: flex;
+    margin: 5px;
+}
+.s{
+    height: 200px;width: 900px;
+}
+.im{
+    border: none;
+    border-radius: 10px;
+}
+.pic{
+    border-radius: 50px;
+}
+.q{
+    margin: 50px;
+}
+.o{
+    display: flex;
+    justify-content: space-around;
+}
+.r{
+    text-align: center;
+}
