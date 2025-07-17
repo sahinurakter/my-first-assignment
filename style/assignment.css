@@ -127,3 +127,6 @@ div ul li{
 .cet{
     padding: 60px 0px;
 }
+button:hover{
+    background-color: aqua;
+}
